@@ -1,0 +1,6 @@
+adem,1234,akbank,1543,kart1,1499
+sabri,2345,akbank,1541,kart1,2000
+semih,4321,isbank,2421,kart1,7000
+kamil,0000,ziraat,3001,kart1,1500
+hamdi,5555,vakif,6837,kart1,1654
+harun,5222,ziraat,6130,kart1,3500
